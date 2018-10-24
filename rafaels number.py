@@ -1,4 +1,5 @@
 # eine implementierung mit der man Rafaels Zahl berechnen kann!
+# urheber der formel: unbekannt!
 def fac(n):
     f = 1
     for i in range(1, n + 1):
