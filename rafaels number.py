@@ -1,5 +1,5 @@
 # eine implementierung mit der man Rafaels Zahl berechnen kann!
-# urheber der formel: unbekannt!
+# urheber der formel: aus einem mathebuch(titel ist unbekannt)!
 
 # R(0) = 4
 # R(n) = 2^(R(n - 1)!)
